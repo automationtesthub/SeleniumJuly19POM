@@ -22,6 +22,7 @@ public class loginTest extends baseTest {
 	{
 		//createtestReport();
 		launchApp(browser);
+		System.out.println("Hello Java");
 		
 	}
 	
